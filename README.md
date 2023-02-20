@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a curious guy interested in a bunch of fields such as: Game Dev, ML, Web Dev, Psychology & Philosophy.
+I am a curious guy, interested in a bunch of fields such as: Game Dev, ML, Web Dev, Psychology & Philosophy.
 I'm currently pursuing a BSc degree in Computer Science at the University of Surrey.
 
 ---

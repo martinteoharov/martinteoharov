@@ -6,6 +6,7 @@ I'm currently pursuing a BSc degree in Computer Science at the University of Sur
 Currently focusing on:
 - PixPox: A Game Engine written in rust, built around the concept of simulating every pixels using cellular automaton rules
 
+---
 Technologies I am currently working with:
 - Rust
 - Web

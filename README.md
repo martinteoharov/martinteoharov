@@ -3,17 +3,9 @@
 I am a curious guy interested in a bunch of fields such as: Game Dev, ML, Web Dev, Psychology & Philosophy.
 I'm currently pursuing a BSc degree in Computer Science at the University of Surrey.
 
-Currently focusing on:
-- PixPox: A Game Engine written in rust, built around the concept of simulating every pixels using cellular automaton rules
-
 ---
-Technologies I am currently working with:
-- Rust
-- Web
-  - Node
-  - React
-  - TypeScript
-  - AWS
+Currently focusing on:
+- PixPox: A Game Engine written in rust, built around the concept of simulating every pixels using cellular automaton rules.
 
 Read more about my interests, projects and achievements on https://martinteoharov.com
 

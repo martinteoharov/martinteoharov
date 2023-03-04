@@ -5,7 +5,7 @@ I'm currently pursuing a BSc degree in Computer Science at the University of Sur
 
 ---
 Currently focusing on:
-- PixPox: A Game Engine written in rust, built around the concept of simulating every pixels using cellular automaton rules.
+- PixPox: A Game Engine written in rust, built around the concept of simulating every pixel using cellular automaton rules.
 
 Read more about my interests, projects and achievements on https://martinteoharov.com
 

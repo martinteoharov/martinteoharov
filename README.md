@@ -1,11 +1,16 @@
-### Hi there 👋
+### Hey there, I'm Martin! 👋
 
-I am a curious guy, interested in a bunch of fields such as: Game Dev, ML, Web Dev, Psychology & Philosophy.
-I'm currently pursuing a BSc degree in Computer Science at the University of Surrey.
+
+
+Recently received my BCs degree in Computer Science from the University of Surrey (UK).
+
+Currently employed at Royal Surrey NHS Foundation Trust.
 
 ---
-Currently focusing on:
+Focusing on:
+
 - PixPox: A Game Engine written in rust, built around the concept of simulating every pixel using cellular automaton rules.
+- My full-time job
 
 Read more about my interests, projects and achievements on https://martinteoharov.com
 

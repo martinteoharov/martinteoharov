@@ -2,7 +2,7 @@
 
 
 
-Recently received my BCs degree in Computer Science from the University of Surrey (UK).
+Recently received my BSc degree in Computer Science from the University of Surrey (UK).
 
 Currently employed at Royal Surrey NHS Foundation Trust.
 

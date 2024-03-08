@@ -1,16 +1,17 @@
 ### Hey there, I'm Martin! 👋
 
-
-
 Recently received my BSc degree in Computer Science from the University of Surrey (UK).
 
 Currently employed at Royal Surrey NHS Foundation Trust.
+
+I would usually work on something that I deem beneficial for the world or a creative project for my personal enjoyment.
 
 ---
 Focusing on:
 
 - PixPox: A Game Engine written in rust, built around the concept of simulating every pixel using cellular automaton rules.
-- My full-time job
+- tiny-track: A tiny web platform analytics tracker.
+- My full-time job.
 
 Read more about my interests, projects and achievements on https://martinteoharov.com
 

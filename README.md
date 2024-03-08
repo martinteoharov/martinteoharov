@@ -4,7 +4,7 @@ Recently received my BSc degree in Computer Science from the University of Surre
 
 Currently employed at Royal Surrey NHS Foundation Trust.
 
-I would usually work on something that I deem beneficial for the world or a creative project for my personal enjoyment.
+I would usually work on something that I deem beneficial for the world or on a creative project for my personal enjoyment.
 
 ---
 Focusing on:
